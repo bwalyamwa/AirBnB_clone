@@ -44,6 +44,7 @@ button:hover {
 .filters .locations .popover {
     padding-left:20px;
     border:1px solid #DDDDDD;
+    border-radius: 4px;
     background-color:#FAFAFA;
     padding-top:20px;
     padding-bottom:20px;
@@ -64,6 +65,7 @@ button:hover {
 .filters .amenities {
     height:100%;
     width:25%;
+    border-right:1px solid #DDDDDD;
 }
 .filters .amenities h3 {
     font-weight:600;
